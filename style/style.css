@@ -55,7 +55,7 @@ nav {
     left : 0 ; 
     width: 100%;
     height : 100vh ; 
-    background-image: url("../img/fond-site.PNG");
+    background-image: url("../img/fond-site.png");
     -webkit-background-size: cover; /* pour anciens Chrome et Safari */
     background-size: cover; /* version standardisée */
     z-index : 100 ;
