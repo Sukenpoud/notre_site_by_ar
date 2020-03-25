@@ -112,13 +112,21 @@ nav {
 
 #contenu{
     width:50%;
+    margin-top: 3%;
     margin-left:5%;
+}
+
+#contenu h1{
+    font-family: Verdana;
+    text-shadow: 1px 1px 1px #000;
+    color: #000071;
 }
 
 footer{
     background: rgb(67, 67, 67);
     color:white;
-    width: 100px;
+    width: 100%;
     position: absolute;
     bottom: 0;
+    text-align: center;
 }
