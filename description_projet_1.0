@@ -1,0 +1,68 @@
+1. THÈME
+
+Nous avons décidé de créer un site promotionnel pour l’association du Secours Populaire.
+Dans le but de donner de la visibilité aux actions effectuées par cette association et inciter les visiteurs à s’intéresser à la cause. Le site invite également les visiteurs à faire des dons.
+
+
+2. CONCEPTION DU SITE
+
+Page d’Accueil 
+
+A. Les Actions
+
+	  A1. Actions en Europe
+	
+	  A2. Actions dans le Monde
+
+B. Agir avec eux
+
+    B1. Faire des dons
+
+	  B2. Devenir bénévole
+
+C. Où les trouver
+
+  	C1. Associations régionales
+
+	  C2. Associations départementales
+
+3. DESCRIPTION DE CHAQUE PAGE
+
+Page d’Accueil: Sur cette page, nous retrouvons des informations essentielles sur l’association, notamment son but ainsi que les actualités liées à celle-ci.
+
+
+Les Actions: Cette page répertorie les campagnes de sensibilisation effectuées par le Secours Populaire, mais aussi les actions de solidarité réalisées en France et dans le Monde entier.
+
+	  Actions en Europe: Répertorie les actions de solidarité réalisées en Europe.
+	
+	  Actions dans le Monde: Répertorie les actions de solidarité réalisées dans le monde entier.
+
+
+Agir avec eux: Page qui informe les visiteurs de ceux qu’ils peuvent faire pour aider l’association. Cette page redirige donc vers la page “Donner” et la page “Devenir bénévole”.
+
+    Faire des dons: Page qui affiche un formulaire pour effectuer un don d’argent ou de vêtements à l’association.
+
+	  Devenir bénévole: Informe des modalités du rôle des bénévoles au sein de l’association et invite les visiteurs à s’engager en remplissant un formulaire.
+
+
+Où les trouver: Page qui permet de trouver les centres près de chez soi en les classant par région et par département.
+	
+	  Associations régionales: Affiche les informations des associations par région.
+
+	  Associations départementales: Affiche les informations des associations par département.
+
+
+4. TECHNOLOGIES UTILISÉES
+
+La demande étant la réalisation d’un site exclusivement dit site vitrine nous allons utiliser les technologies de programme telles que : 
+
+Le html 5 et css3 s’alliant parfaitement avec le framework Bootstrap 4 permettant d’utiliser les technologie css flex-box et média queries permettant de maintenir un site responsive donc adaptable sur tous les médias possible. . 
+Javascript, nous permettant l’utilisation en simultané de son framework jquery donnant la présence d’animation sur le site afin d’éviter un site dit “statique” 
+PHP 7.4.3 pour les pages nous demandant de maintenir un contact ou un échange avec le visiteur du site, par exemple à travers un formulaire de contact et ou un système de localisation des différents centre de l’association présents dans la région du visiteurs. 
+
+
+5. PLANIFICATION DE TACHES
+
+Yves : Réalisation des pages “Accueil”, “Leurs actions”, “En Europe” et “Dans le Monde”.
+
+Romain : Réalisation des pages “Agir avec eux”, “Faire des dons”, “Devenir bénévole”, “Où les trouver”, “Associations régionales” et “Associations départementales”.
